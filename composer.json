@@ -2,5 +2,5 @@
     "name":"public/framework",
     "description": "create by HZP",
     "keywords": ["framework", "new"],
-    "license":"BSD"
+    "license":"MIT"
 }
