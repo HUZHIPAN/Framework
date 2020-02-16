@@ -1,3 +1,6 @@
 {
-    "name":"public/framework"
+    "name":"public/framework",
+    "description": "create by HZP",
+    "keywords": ["framework", "new"],
+    "license":"HZP"
 }
