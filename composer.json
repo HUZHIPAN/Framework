@@ -1,6 +1,12 @@
 {
     "name":"public/framework",
     "description": "create by HZP",
+    "authors": [
+        {
+            "name": "HUZHIPAN",
+            "email": "2418731730@qq.com"
+        }
+    ],
     "keywords": ["framework", "new"],
     "license":"MIT"
 }
