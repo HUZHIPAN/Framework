@@ -7,6 +7,11 @@
             "email": "2418731730@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Frame\\": "framework/"
+        }
+    },
     "keywords": ["framework", "new"],
     "license":"MIT"
 }
